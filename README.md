@@ -20,8 +20,8 @@ Full-stack developer building production systems.
 ---
 
 ### [Annadaan](https://github.com/VinaySuhirthan/Annadaan)
-🥈 2nd Place National Hackathon | ₹5,000 Prize | Team Lead  
-Food redistribution platform | 500+ kg saved | 100+ beneficiaries
+
+Food redistribution platform | 100+ beneficiaries
 
 **Live:** [annadaanl.vercel.app](https://annadaanl.vercel.app)  
 **Stack:** React • Node.js • MongoDB • Google Maps • Vercel
@@ -29,8 +29,7 @@ Food redistribution platform | 500+ kg saved | 100+ beneficiaries
 ---
 
 ### [AdGPT](https://github.com/VinaySuhirthan/AdGPT)
-🥈 2nd Place AI Adzap | ₹1,500 Prize  
-AI marketing copy & image generator | 98% accuracy
+AI-powered ad generation | Real-time text, image & video creation
 
 **Stack:** Qwen 3.5 • Ollama • FLUX • Hugging Face • Python
 
