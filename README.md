@@ -21,7 +21,6 @@ Intelligent crowd monitoring and management platform for real-time density track
 - Real-time crowd analytics and heatmap visualization
 - Built with React, Node.js, and MongoDB
 - Implemented location-based services for crowd density estimation
-- **Live:** [crowd-management](#)
 - **Repository:** [github.com/VinaySuhirthan/crowd_management](https://github.com/VinaySuhirthan/crowd_management)
 
 ### Timetable Scheduling Application
@@ -29,15 +28,13 @@ Smart timetable generator with conflict detection and optimization algorithms
 - Automated schedule generation with constraint solving
 - User-friendly interface for viewing and managing schedules
 - Backend APIs for timetable management and exports
-- **Live:** [timetable-app](#)
 - **Repository:** [github.com/VinaySuhirthan/timetable](https://github.com/VinaySuhirthan/timetable)
 
 ### AdGPT - AI Advertisement Generator
 Intelligent ad content generation platform powered by AI/ML models
 - Automated copywriting and ad creative generation using LLMs
 - Multi-platform ad format support (social, display, email)
-- Analytics dashboard for ad performance tracking
-- **Live:** [adgpt-platform](#)
+- Analytics dashboard for ad performance tracking=
 - **Repository:** [github.com/VinaySuhirthan/adgpt](https://github.com/VinaySuhirthan/adgpt)
 
 ### Annadaan - Food Donation Platform
@@ -45,7 +42,6 @@ Community-driven platform connecting food donors with NGOs and those in need
 - Real-time food availability tracking and requests
 - Donor-receiver matching algorithm
 - Impact analytics and donation history
-- **Live:** [annadaan-platform](#)
 - **Repository:** [github.com/VinaySuhirthan/Annadaan](https://github.com/VinaySuhirthan/Annadaan)
 
 ## Technologies & Tools
