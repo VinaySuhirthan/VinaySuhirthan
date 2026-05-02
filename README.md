@@ -123,11 +123,6 @@ Grade 12: 87.4% • Grade 10: 89%
 
 ---
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VinaySuhirthan&theme=dark&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinaySuhirthan&theme=dark&hide_border=true&layout=compact)
 
 ---
 
