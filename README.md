@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🚀 VINAY SUHIRTHAN
+#  VINAY SUHIRTHAN
 ## AI & Data Science Engineer | Full-Stack Developer | Innovation Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;AI+%26+Data+Science+Engineer;Building+Intelligent+Solutions;Let's+Create+Magic+🚀;Hackathon+Winner;Full-Stack+Developer" alt="Typing SVG" />
