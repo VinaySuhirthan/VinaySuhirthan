@@ -42,9 +42,3 @@ Real-time crowd analytics | 95% prediction accuracy
 **Stack:** React • Python • Node.js • TensorFlow • AWS
 
 ---
-
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=VinaySuhirthan&theme=dark&show_icons=true&hide_border=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VinaySuhirthan&theme=dark&hide_border=true&layout=compact)
